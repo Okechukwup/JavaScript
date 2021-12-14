@@ -1,104 +1,68 @@
 [
     {
-        "movieName": "Bountiful Utah Temple",
-        "director": "Bountiful, Utah, United States",
-        "dedicated": "8 January 1995",
-        "imageUrl": "https://assets.ldscdn.org/b3/1f/b31f8fc3892ce063cfbd0607cd53980290fcc0ae/aba_nigeria_temple_lds.jpeg"
+        "movieName": "Red Notice",
+        "director": "Rawson Marshall Thurber",
+        "releaseDate": "5 November 2021",
+        "imageUrl": "https://technext.ng/wp-content/uploads/2021/11/1636920166-red-notice-actors-dwayne-johnson-gal-gadot-ryan-reynolds-expected-salary-for-their-work-will-blow-yo-1024x538.jpeg"
     },
     {
-        "movieName": "Brigham City Utah Temple",
-        "director": "Brigham City, Utah, United States",
-        "dedicated": "23 September 2012",
-        "imageUrl": "https://assets.ldscdn.org/93/92/9392e6adee3d1aa025548de1a852a27ad8ea40f4/brigham_city_utah_temple_dawn.jpeg"
+        "movieName": "Sweet Girl",
+        "director": "Brian Andrew Mendoza",
+        "releaseDate": "20 August 2021",
+        "imageUrl": "https://optimizespirit.com/wp-content/uploads/2021/07/Lanzan-el-primer-trailer-de-Sweet-Girl-con-Jason-Momoa-1170x611.jpg"
     },
     {
-        "movieName": "Cedar City Utah Temple",
-        "director": "Cedar City, Utah, United States",
-        "dedicated": "10 December 2017",
-        "imageUrl": "https://assets.ldscdn.org/b2/89/b2891eb1787414ec6995a32c42d03981732c2d6a/cedar_city_utah_temple_exterior.jpeg"
+        "movieName": "Kate",
+        "director": "Cedric Nicolas-Troyan",
+        "releaseDate": "10 September 2021",
+        "imageUrl": "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/kate-movie-review-2021/kate-movie-review-2021.jpeg"
     },
     {
-        "movieName": "Draper Utah Temple",
-        "director": "Draper, Utah, United States",
-        "dedicated": "20 March 2009",
-        "imageUrl": "https://assets.ldscdn.org/9d/dc/9ddc03f577e4395b3408d00dcc874fb6b74b36de/draper_utah_temple.jpeg"
+        "movieName": "The Tomorrow War",
+        "director": "Chris McKay",
+        "releaseDate": "2 July 2021",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTI2YTI0MWEtNGQ4OS00ODIzLWE1MWEtZGJiN2E3ZmM1OWI1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg"
     },
     {
-        "movieName": "Jordan River Utah Temple",
-        "director": "South Jordan, Utah, United States",
-        "dedicated": "16 November 1981",
-        "imageUrl": "https://assets.ldscdn.org/e5/54/e5546a3599c023ba83a4d751fb6fc196b5ab6ada/jordan_river_temple_exterior_images.jpeg"
+        "movieName": "Outside the Wire",
+        "director": "Mikael Håfström",
+        "releaseDate": "15 January 2021",
+        "imageUrl": "https://i0.wp.com/pahe.stream/wp-content/uploads/2021/04/6XYLiMxHAaCsoyrVo38LBWMw2p8-1.jpg?fit=500%2C750&ssl=1"
     },
     {
-        "movieName": "Logan Utah Temple",
-        "director": "Logan, Utah, United States",
-        "dedicated": "17 May 1884",
-        "imageUrl": "https://assets.ldscdn.org/07/66/0766f32cfa9c69e9c838361d874aeb819983139a/logan_temple_lds.jpeg"
+        "movieName": "Army of Thieves",
+        "director": "Matthias Schweighöfer",
+        "releaseDate": "29 October 2021",
+        "imageUrl": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/05/Army-of-Thieves-Cast.jpg"
     },
     {
-        "movieName": "Manti Utah Temple",
-        "director": "Manti, Utah, United States",
-        "dedicated": "21 May 1888",
-        "imageUrl": "https://assets.ldscdn.org/f3/85/f38513cc90a30a2095d0891fb1b1a9419fcfeba5/manti_temple_lds.jpeg"
+        "movieName": "SAS: Red Notice",
+        "director": "Rawson Marshall Thurber",
+        "releaseDate": "12 March 2021",
+        "imageUrl": "https://www.gaytimes.co.uk/wp-content/uploads/2021/03/Ruby-Rose-1466x854.jpg"
     },
     {
-        "movieName": "Monticello Utah Temple",
-        "director": "Monticello, Utah, United States",
-        "dedicated": "26 July 1998",
-        "imageUrl": "https://assets.ldscdn.org/c1/4f/c14f8dc51dab085e74a56355b841ab7887a246b5/monticello_utah_temple.jpeg"
+        "movieName": "The Old Guard",
+        "director": "Gina Prince-Bythewood",
+        "releaseDate": "10 July 2020",
+        "imageUrl": "https://pyxis.nymag.com/v1/imgs/131/0d4/79c46f82234feef759b9b8802b3314e674-the-old-gaurd.rsquare.w700.jpg"
     },
     {
-        "movieName": "Mount Timpanogos Utah Temple",
-        "director": "American Fork, Utah, United States",
-        "dedicated": "13 October 1996",
-        "imageUrl": "https://assets.ldscdn.org/38/f4/38f4f0d08d11f9aa517fb57f68bbf7f95f1de7ed/mount_timpanogos_utah_temple.jpeg"        
+        "movieName": "Sonic the Hedgehog",
+        "director": "Jeff Fowler",
+        "releaseDate": "21 February 2020",
+        "imageUrl": "https://i.pinimg.com/736x/a7/1a/12/a71a12a222ddb7a193ac1181dd7692b0.jpg"        
     },
     {
-        "movieName": "Ogden Utah Temple",
-        "director": "Ogden, Utah, United States",
-        "dedicated": "18 January 1972",
-        "imageUrl": "https://assets.ldscdn.org/0f/02/0f025531c7bdeb20c986e0c53c2ab063b9e12deb/ogden_utah_temple.jpeg"
+        "movieName": "How I Became a Super Hero",
+        "director": "Douglas Attal",
+        "releaseDate": "21 April 2021",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWZkZDY5YTgtMzY3NS00MGQyLTkyMTYtNTBjODhmNGYxMjhiXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg"
     },
     {
-        "movieName": "Oquirrh Mountain Utah Temple",
-        "director": "South Jordan, Utah, United States",
-        "dedicated": "21 August 2009",
-        "imageUrl": "https://assets.ldscdn.org/12/79/1279ca967a843a350968560551d6cf5aac5e12da/oquirrh_mountain_utah_temple.jpeg"
-    },
-    {
-        "movieName": "Payson Utah Temple",
-        "director": "Payson, Utah, United States",
-        "dedicated": "7 June 2015",
-        "imageUrl": "https://assets.ldscdn.org/c8/b5/c8b5e860a7edbbef90734c83be366e8d359d2c0b/payson_utah_temple.jpg"
-    },
-    {
-        "movieName": "Provo City Center Temple",
-        "director": "Provo, Utah, United States",
-        "dedicated": "20 March 2016",
-        "imageUrl": "https://assets.ldscdn.org/57/18/5718c8b9c5a103646c0bd22554cb268b88986f05/provo_city_center_temple_exterior.jpg"
-    },
-    {
-        "movieName": "Provo Utah Temple",
-        "director": "Provo, Utah, United States",
-        "dedicated": "9 February 1972",
-        "imageUrl": "https://assets.ldscdn.org/77/eb/77eb82391ad1795a117b25ee3deaf2a4d229311a/provo_temple_lds.jpg"
-    },
-    {
-        "movieName": "Salt Lake Temple",
-        "director": "Salt Lake City, Utah, United States",
-        "dedicated": "Renovation",
-        "imageUrl": "https://assets.ldscdn.org/cc/dc/ccdce513b921520a0740a60b5f349759a269eceb142197/salt_lake_temple_lds.jpeg"
-    },
-    {
-        "movieName": "St. George Utah Temple",
-        "director": "St. George, Utah, United States",
-        "dedicated": "Renovation",
-        "imageUrl": "https://assets.ldscdn.org/2a/d5/2ad54a2218bcb5b9437bbb53a33141934dc2fd7b1073956/st_george_temple_lds.jpeg"
-    },
-    {
-        "movieName": "Vernal Utah Temple",
-        "director": "Vernal, Utah, United States",
-        "dedicated": "2 November 1997",
-        "imageUrl": "https://assets.ldscdn.org/41/0a/410a29915aac112f15a293d963abfadee117776f1068523/vernal_temple_lds.jpeg"
+        "movieName": "6 Underground",
+        "director": "Michael Bay",
+        "releaseDate": "13 December 2019",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuDXRz5ikghvZZ6fQ6v6At-RwMXz-AimuN8g&usqp=CAU"
     }
 ]
